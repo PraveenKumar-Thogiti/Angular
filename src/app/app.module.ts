@@ -5,6 +5,7 @@ import { AppComponent } from './app.component';
 import { ButtonComponent } from './button/button.component';
 import { HomeComponent } from './home/home.component';
 import { QaGeneratorComponent } from './qa-generator/qa-generator.component';
+import { AccordianComponent } from './accordian/accordian.component';
 
 
 
@@ -13,7 +14,8 @@ import { QaGeneratorComponent } from './qa-generator/qa-generator.component';
     AppComponent,
     ButtonComponent,
     HomeComponent,
-    QaGeneratorComponent
+    QaGeneratorComponent,
+    AccordianComponent
   ],
   imports: [
     BrowserModule,
