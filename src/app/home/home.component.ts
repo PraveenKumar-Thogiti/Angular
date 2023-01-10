@@ -20,4 +20,7 @@ export class HomeComponent implements OnInit {
   navigateQRGen(){
     this.router.navigateByUrl('qrGen');
   }
+  navigateAccordian(){
+    this.router.navigateByUrl('accordian');
+  }
 }

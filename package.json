@@ -19,6 +19,7 @@
     "@angular/platform-browser-dynamic": "^14.0.0",
     "@angular/router": "^14.0.0",
     "bootstrap": "^5.2.3",
+    "jquery": "^3.6.3",
     "qr-code-styling": "^1.6.0-rc.1",
     "rxjs": "~7.5.0",
     "tslib": "^2.3.0",
